@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8104380510",
+    "firebase_url": "https://appshoe-fe53c.firebaseio.com",
+    "project_id": "appshoe-fe53c",
+    "storage_bucket": "appshoe-fe53c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8104380510:android:6e89b1f0cefb0a01768ccf",
+        "android_client_info": {
+          "package_name": "com.appshoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8104380510-jh5uhavlkoqqqskfn367u8t8kcom97fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTIndiwLasGIDwazpTVf6saoiGC7pKvVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8104380510-jh5uhavlkoqqqskfn367u8t8kcom97fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
